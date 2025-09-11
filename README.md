@@ -15,9 +15,7 @@
  
  🌱 I’m currently learning **DSA Python AI/ML**
 
-💬 Ask me about **HTML5, CSS3, Bootstrap... or anything [here](https://github.com/Yash-Lade/Yash-Lade)**
-
-⚡ Fun fact: **I enjoy exploring tech, space, and creativity!**
+💬 Ask me about **solutions of various algorithms, HTML5, CSS3, Bootstrap... or anything [here](https://github.com/Yash-Lade/Yash-Lade)**
 
  </div>
 
