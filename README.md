@@ -13,7 +13,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **DSA Python AI/ML**
+ 🌱 I’m currently learning **DSA Python Django**
 
 💬 Ask me about **solutions of various algorithms, HTML5, CSS3, Bootstrap... or anything [here](https://github.com/Yash-Lade/Yash-Lade)**
 
