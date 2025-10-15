@@ -21,14 +21,17 @@
 
 <br/>
 
-<div align="center"> 
-  <a href="mailto:yashlade20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<div align="center" > 
+    <a href="https://instagram.com/epic.yashh" target="blank">
+        <img hspace="5" paddinh-right="5px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="epic.yashh" width="45" height="45" />
+    </a> 
+    <a href="mailto:yashlade20@gmail.com">
+        <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" height="45"  />
   </a>
   <a href="https://www.linkedin.com/in/yashlade/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" width="45" height="45"/>
   </a>
-  <a href="https://instagram.com/epic.yashh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="epic.yashh" height="30" width="40" />
+  
 </div>
 
 <hr/>
@@ -48,7 +51,7 @@
 
 <p align="center">
   <a href="https://github.com/Yash-lade">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql,latex" />
   </a>
 </p>
 <br/>
