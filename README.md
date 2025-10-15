@@ -47,7 +47,7 @@
 </div> -->
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Yash-lade">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql" />
   </a>
 </p>
