@@ -14,8 +14,10 @@
 <div align="left">
  
 🌱 I’m currently learning **DSA Python Django**
+
 💬 Ask me about **solutions of various coding questions, HTML5, CSS3, Bootstrap... or anything [here](https://github.com/Yash-Lade/Yash-Lade)**
-⚡ Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and list goes on... **
+
+⚡ Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and list goes on**...
 
  </div>
 
