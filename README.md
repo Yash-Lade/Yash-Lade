@@ -15,7 +15,7 @@
  
 🌱 I’m currently learning **DSA Python Django**
 
-💬 Ask me about **solutions of various coding questions, HTML5, CSS3, Bootstrap... or anything [here](https://github.com/Yash-Lade/Yash-Lade)**
+💬 Ask me about **tech stuff, animes, shady websites.. or anything [here](https://x.com/Yashlade5)**
 
 ⚡ Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and list goes on**...
 
@@ -32,6 +32,10 @@
   </a>
   <a href="https://www.linkedin.com/in/yashlade/" target="_blank">
     <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" width="45" height="45"/>
+  </a>
+
+   <a href="https://x.com/Yashlade5" target="_blank">
+    <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank" width="45" height="45"/>
   </a>
   
 </div>
