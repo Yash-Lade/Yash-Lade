@@ -8,7 +8,6 @@
 </h1>
 
 <h3 align="center">A passionate Computer Programmer from India IN</h3>
-
 <br/>
 
 <div align="left">
