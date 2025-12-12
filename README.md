@@ -12,11 +12,11 @@
 
 <div align="left">
  
-🌱 I’m currently learning **DSA Python Django**
+I’m currently learning **DSA Python Django**
 
-💬 Ask me about **tech stuff, animes, shady websites... or anything [here](https://x.com/Yashlade5)**
+Ask me about **tech stuff, animes, shady websites... or anything [here](https://x.com/Yashlade5)**
 
-⚡ Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and list goes on**...
+Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and list goes on**...
 
  </div>
 
