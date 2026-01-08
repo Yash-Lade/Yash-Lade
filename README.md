@@ -16,7 +16,9 @@
 
 - Ask me about **tech stuff, animes, shady websites... or anything [here](https://x.com/Yashlade5)**
 
-- Interests : Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and the list goes on**...
+- Interests : Webseries, Movies ps:pure-cinema :-)
+
+- Hardcore anime fanboi - **compeleted One Piece, Naruto, Death Note, Dr.Stone, almost all romcoms, and the list goes on**...
 
  </div>
 
