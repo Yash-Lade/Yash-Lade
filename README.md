@@ -68,12 +68,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Yash-Lade&theme=slateorange&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
-  <br/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Lade&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Lade&theme=dark&hide_border=true" alt="top langs" />
+<div align=center>  
+<img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api?username=Yash-Lade&show_icons=true&theme=dark&card_width=400&line_height=24" />
+<img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Lade&theme=dark&hide_border=true" alt="top langs" />
+<br>
+<img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Yash-Lade&theme=dark&layout=compact&langs_count=6&&line_height=24" alt="top langs" />
+
+
 </div>
 
 <br/><br/>
