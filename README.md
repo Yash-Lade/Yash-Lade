@@ -78,6 +78,8 @@
 
 <br/><br/>
 
+<h2 align="center"> Visits so far... </h2> 
+<p align="center"> <a href="https://github.com/Yash-Lade"><img align="center" width=400 src=https://count.getloli.com/@Yash-Lade?name=Yash-Lade&theme=love-and deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
 <hr/>
 <br/>
 
