@@ -72,7 +72,7 @@
 <img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api?username=Yash-Lade&show_icons=true&theme=dark&card_width=400&line_height=24" />
 <img width=450 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-Lade&theme=dark&hide_border=true" alt="top langs" />
 <br>
-<img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Yash-Lade&theme=dark&layout=compact&langs_count=6&&line_height=24" alt="top langs" />
+<img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Yash-Lade&theme=dark&layout=compact&langs_count=8&&line_height=24" alt="top langs" />
 
 
 </div>
