@@ -38,7 +38,10 @@
    <a href="https://x.com/Yashlade5" target="_blank">
     <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank" width="45" height="45"/>
   </a>
-  
+
+  <a href="https://www.leetcode.com/yashlade" target="blank">
+     <img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujalnage" width="45" height="45" />
+  </a>
 </div>
 
 <hr/>
