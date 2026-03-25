@@ -77,15 +77,12 @@
 <br>
 <img width=390 align="center" src="https://github-readme-stats-opal-psi-50.vercel.app/api/top-langs/?username=Yash-Lade&theme=dark&layout=compact&langs_count=8&&line_height=24" alt="top langs" />
 
-
 </div>
 
 <br/><br/>
 
 <h2 align="center"> Visits so far... </h2> 
 <p align="center"> <a href="https://github.com/Yash-Lade"><img align="center" width=400 src=https://count.getloli.com/@Yash-Lade?name=Yash-Lade&theme=love-and deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
-<hr/>
-<br/>
 
 <div align="center">
 <h2>Thanks for Visiting ⚡</h2>
