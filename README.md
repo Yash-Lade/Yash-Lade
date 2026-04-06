@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/Yash-lade">
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql,latex,gitlab,postgresql,postman"/>
+    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql,latex,gitlab,postgresql,postman,vscode"/>
   </a>
 </p>
 <br/>
