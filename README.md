@@ -44,8 +44,6 @@
   </a>
 </div>
 
-<hr/>
-
 <h2 align="center">⚒️ Languages & Tools ⚒️</h2>
 <br/>
 
@@ -65,8 +63,6 @@
   </a>
 </p>
 <br/>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
