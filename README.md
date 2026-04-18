@@ -44,7 +44,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages & Tools I worked on... </h2>
 <br/>
 
 <!-- <div align="center">
