@@ -24,24 +24,11 @@
 
 <br/>
 
-<div align="center" > 
-    <a href="https://instagram.com/epic.yashh" target="blank">
-        <img hspace="5" paddinh-right="5px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="epic.yashh" width="45" height="45" />
-    </a> 
-    <a href="mailto:yashlade20@gmail.com">
-        <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" height="45"  />
-  </a>
-  <a href="https://www.linkedin.com/in/yashlade/" target="_blank">
-    <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" width="45" height="45"/>
-  </a>
-
-   <a href="https://x.com/Yashlade5" target="_blank">
-    <img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank" width="45" height="45"/>
-  </a>
-
-  <a href="https://www.leetcode.com/yashlade" target="blank">
-     <img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujalnage" width="45" height="45" />
-  </a>
+<div align="center">
+    <a href="mailto:yashlade20@gmail.com"><img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" width="45" height="45"/></a>
+    <a href="https://www.linkedin.com/in/yashlade/" target="_blank"><img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" width="45" height="45"/></a>
+    <a href="https://x.com/Yashlade5" target="_blank"><img hspace="5" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" target="_blank" width="45" height="45"/></a>
+    <a href="https://www.leetcode.com/yashlade" target="blank"><img hspace="5" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="45" height="45" /></a>
 </div>
 
 <h2 align="center">⚒️ Languages & Tools I worked on... </h2>
@@ -62,6 +49,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,python,django,vscode,html,css,tailwind,bootstrap,mysql,latex,gitlab,postgresql,postman,vscode,visualstudio,nestjs"/>
   </a>
 </p>
+
 <br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
